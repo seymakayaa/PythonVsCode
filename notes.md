@@ -1,4 +1,4 @@
-#Summary of Visual Studio Code (VSCode) Python Documentation
+# Summary of Visual Studio Code (VSCode) Python Documentation
 
 1. **Getting Started:**
    - VSCode Installation: Explains how to download and install VSCode on different platforms.
