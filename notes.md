@@ -34,7 +34,9 @@
 9. ## Additional Extensions: 
    - Recommended Extensions: Lists other valuable VSCode extensions for Python development, such as snippets and documentation generators.
 
-10. ## Troubleshooting and FAQ:**
+10. ## Troubleshooting and FAQ: 
     - Common Issues: Addresses frequently asked questions and common problems users might encounter during Python development in VSCode.
+
+
 
 This summary covers the features and usage guidelines for effectively utilizing Python in Visual Studio Code for development. For more in-depth information, you can explore the official documentation: [Python in Visual Studio Code - Official Documentation](https://code.visualstudio.com/docs/languages/python)
